@@ -1,0 +1,662 @@
+{
+  "activateSkinCapeForUserVersion": false,
+  "skipHashsumValidation": false,
+  "additionalFiles": [
+    {
+      "sha1": "045d6edac8fe1b004e159c49704b5b729f551079",
+      "size": 9118806,
+      "path": "libraries/net/minecraft/client/1.16.5-20210115.111550/client-1.16.5-20210115.111550-slim.jar",
+      "url": "http://res.tlauncher.org/unb/libraries/cache/net/minecraft/client/1.16.5-20210115.111550/client-1.16.5-20210115.111550-slim.jar"
+    },
+    {
+      "sha1": "fae9e75d511e211d80580d3ffcc7e1f0d94f67ef",
+      "size": 11352644,
+      "path": "libraries/net/minecraft/client/1.16.5-20210115.111550/client-1.16.5-20210115.111550-srg.jar",
+      "url": "http://res.tlauncher.org/unb/libraries/cache/net/minecraft/client/1.16.5-20210115.111550/client-1.16.5-20210115.111550-srg-fae9e75d511e211d80580d3ffcc7e1f0d94f67ef.jar"
+    },
+    {
+      "sha1": "4aef4168f94d97bc73bf510213b2518942f931d1",
+      "size": 8428369,
+      "path": "libraries/net/minecraft/client/1.16.5-20210115.111550/client-1.16.5-20210115.111550-extra.jar",
+      "url": "http://res.tlauncher.org/unb/libraries/cache/net/minecraft/client/1.16.5-20210115.111550/client-1.16.5-20210115.111550-extra.jar"
+    },
+    {
+      "sha1": "f0b1ece7b16290e61d1cd76b67b94ae499ecdd9a",
+      "size": 4214137,
+      "path": "libraries/net/minecraftforge/forge/1.16.5-36.2.34/forge-1.16.5-36.2.34-client.jar",
+      "url": "http://res.tlauncher.org/unb/libraries/cache/net/minecraftforge/forge/1.16.5-36.2.34/forge-1.16.5-36.2.34-client.jar"
+    },
+    {
+      "sha1": "24aa8afad1764e4ff18eea3071cbb54461943523",
+      "size": 2773337,
+      "path": "libraries/net/minecraftforge/forge/1.16.5-36.2.34/forge-1.16.5-36.2.34-universal.jar",
+      "url": "http://res.tlauncher.org/unb/libraries/cache/net/minecraftforge/forge/1.16.5-36.2.34/forge-1.16.5-36.2.34-universal.jar"
+    }
+  ],
+  "tlauncherVersion": 0,
+  "modpack": {
+    "modpackMemory": false,
+    "memory": 0,
+    "id": -70057185274300,
+    "name": "server v2 1.16.5",
+    "favorite": false,
+    "version": {
+      "mods": [
+        {
+          "stateGameElement": "active",
+          "id": 10000020,
+          "name": "TL skin and cape",
+          "favorite": false,
+          "version": {
+            "id": 11001784,
+            "name": "1.17",
+            "metadata": {
+              "sha1": "2b8ece879ce18b789b32190a32ab26be9f688213",
+              "size": 450392,
+              "path": "mods/tl_skin_cape_forge_1.16.5-1.17.jar",
+              "url": "/mods/10000020/11001784/tl_skin_cape_forge_1.16.5-1.17.jar"
+            },
+            "available": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 9999999,
+          "name": "OptiFine",
+          "favorite": false,
+          "version": {
+            "id": 11001943,
+            "name": "OptiFine-1.16.5_HD_U_G8_pre2",
+            "metadata": {
+              "sha1": "d56f41f4e746b66ff0d63ecedf3781e2fa7ef1b1",
+              "size": 5400622,
+              "path": "mods/OptiFine-1.16.5_HD_U_G8_pre2.jar",
+              "url": "/mods/9999999/11001943/OptiFine-1.16.5_HD_U_G8_pre2.jar"
+            },
+            "available": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 238222,
+          "name": "Just Enough Items (JEI)",
+          "favorite": false,
+          "version": {
+            "id": 3681294,
+            "name": "jei-1.16.5-7.7.1.152",
+            "metadata": {
+              "sha1": "3cc5fb94d2225af367a04fbc8b288644d6e8ac1b",
+              "size": 828677,
+              "path": "mods/jei-1.16.5-7.7.1.152.jar",
+              "url": "/mods/238222/3681294/jei-1.16.5-7.7.1.152.jar"
+            },
+            "available": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 263420,
+          "name": "Xaero's Minimap",
+          "favorite": false,
+          "version": {
+            "id": 3848408,
+            "name": "v22.10.0 for Forge 1.16.5 - 1.16.2",
+            "metadata": {
+              "sha1": "14673aa1aba20829f306417224dfd679fdde274a",
+              "size": 1181700,
+              "path": "mods/Xaeros_Minimap_22.10.0_Forge_1.16.5.jar",
+              "url": "/mods/263420/3848408/Xaeros_Minimap_22.10.0_Forge_1.16.5.jar"
+            },
+            "available": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 324717,
+          "name": "Jade 🔍",
+          "favorite": false,
+          "version": {
+            "id": 3597364,
+            "name": "Jade-1.16.4-2.8.1",
+            "metadata": {
+              "sha1": "bfb8f6c0c755ed7f86eaa4851e91322272ee7b6d",
+              "size": 257414,
+              "path": "mods/Jade-1.16.4-2.8.1.jar",
+              "url": "/mods/324717/3597364/Jade-1.16.4-2.8.1.jar"
+            },
+            "available": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 238551,
+          "name": "GraveStone Mod",
+          "favorite": false,
+          "version": {
+            "id": 3447911,
+            "name": "[1.16.5] Gravestone Mod 1.16.5-1.0.7",
+            "metadata": {
+              "sha1": "adb3e1f6755c12d479e2a25d7ccd21b827814467",
+              "size": 234509,
+              "path": "mods/gravestone-1.16.5-1.0.7.jar",
+              "url": "/mods/238551/3447911/gravestone-1.16.5-1.0.7.jar"
+            },
+            "available": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 324717,
+              "name": "Jade 🔍",
+              "gameEntityId": 324717,
+              "dependencyType": "required"
+            }
+          ],
+          "available": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 457570,
+          "name": "Configured",
+          "favorite": false,
+          "version": {
+            "id": 3780620,
+            "name": "1.5.2",
+            "metadata": {
+              "sha1": "482fbe102176fdd8742738b2341e3eaf097499fb",
+              "size": 136323,
+              "path": "mods/configured-1.5.2-1.16.5.jar",
+              "url": "/mods/457570/3780620/configured-1.5.2-1.16.5.jar"
+            },
+            "available": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 459701,
+              "name": "Catalogue",
+              "gameEntityId": 459701,
+              "dependencyType": "required"
+            }
+          ],
+          "available": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 459701,
+          "name": "Catalogue",
+          "favorite": false,
+          "version": {
+            "id": 3780550,
+            "name": "1.6.1",
+            "metadata": {
+              "sha1": "1f043d42bd191d4701b6b58e47ccd247daacd81c",
+              "size": 97637,
+              "path": "mods/catalogue-1.6.1-1.16.5.jar",
+              "url": "/mods/459701/3780550/catalogue-1.6.1-1.16.5.jar"
+            },
+            "available": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 457570,
+              "name": "Configured",
+              "gameEntityId": 457570,
+              "dependencyType": "required"
+            }
+          ],
+          "available": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 278717,
+          "name": "Sit",
+          "favorite": false,
+          "version": {
+            "id": 3723460,
+            "name": "sit-1.16.5-v1.3.2",
+            "metadata": {
+              "sha1": "c6d90c28d0655ed8e28d6a2b855210572250e18e",
+              "size": 13034,
+              "path": "mods/sit-1.16.5-v1.3.2.jar",
+              "url": "/mods/278717/3723460/sit-1.16.5-v1.3.2.jar"
+            },
+            "available": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 297039,
+          "name": "Silent Gear",
+          "favorite": false,
+          "version": {
+            "id": 3585058,
+            "name": "silent-gear-1.16.5-2.6.36",
+            "metadata": {
+              "sha1": "b8548dc10d61eafd6b5d8615061deb968bd889f1",
+              "size": 2528190,
+              "path": "mods/silent-gear-1.16.5-2.6.36.jar",
+              "url": "/mods/297039/3585058/silent-gear-1.16.5-2.6.36.jar"
+            },
+            "available": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 242998,
+              "name": "Silent Lib (silentlib)",
+              "gameEntityId": 242998,
+              "dependencyType": "required"
+            },
+            {
+              "gameType": "mod",
+              "id": 308989,
+              "name": "Caelus API (Forge)",
+              "gameEntityId": 308989,
+              "dependencyType": "required"
+            },
+            {
+              "gameType": "mod",
+              "id": 309927,
+              "name": "Curios API (Forge)",
+              "gameEntityId": 309927,
+              "dependencyType": "required"
+            }
+          ],
+          "available": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 242998,
+          "name": "Silent Lib (silentlib)",
+          "favorite": false,
+          "version": {
+            "id": 3385768,
+            "name": "silent-lib-1.16.5-4.10.0",
+            "metadata": {
+              "sha1": "e1fe166b324e4a2ba0d7875c1c10e13067ce4100",
+              "size": 234432,
+              "path": "mods/silent-lib-1.16.5-4.10.0.jar",
+              "url": "/mods/242998/3385768/silent-lib-1.16.5-4.10.0.jar"
+            },
+            "available": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 308989,
+          "name": "Caelus API (Forge)",
+          "favorite": false,
+          "version": {
+            "id": 3522094,
+            "name": "caelus-forge-1.16.5-2.1.3.2",
+            "metadata": {
+              "sha1": "034f5163304a9e3d931faa0a03cb55d9446480b9",
+              "size": 41824,
+              "path": "mods/caelus-forge-1.16.5-2.1.3.2.jar",
+              "url": "/mods/308989/3522094/caelus-forge-1.16.5-2.1.3.2.jar"
+            },
+            "available": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 309927,
+          "name": "Curios API (Forge)",
+          "favorite": false,
+          "version": {
+            "id": 3725386,
+            "name": "curios-forge-1.16.5-4.0.8.2",
+            "metadata": {
+              "sha1": "25df638beedfd5a339eaeeea15a93d3708dc4116",
+              "size": 277848,
+              "path": "mods/curios-forge-1.16.5-4.0.8.2.jar",
+              "url": "/mods/309927/3725386/curios-forge-1.16.5-4.0.8.2.jar"
+            },
+            "available": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 226136,
+          "name": "SimpleCore API",
+          "favorite": false,
+          "version": {
+            "id": 3412930,
+            "name": "SimpleCoreLib-1.16.5-2.0.8.22",
+            "metadata": {
+              "sha1": "5e8db91584150ac75ae1cfb2f8e5f4b3a6b10664",
+              "size": 96151,
+              "path": "mods/SimpleCoreLib-1.16.5-2.0.8.22.jar",
+              "url": "/mods/226136/3412930/SimpleCoreLib-1.16.5-2.0.8.22.jar"
+            },
+            "available": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 226138,
+          "name": "SimpleOres",
+          "favorite": false,
+          "version": {
+            "id": 3393182,
+            "name": "2-1.16.5-2.4.7.2",
+            "metadata": {
+              "sha1": "a6e7624ddf501a18b2ba27e721b5f4472b91ee6a",
+              "size": 321866,
+              "path": "mods/SimpleOres2-1.16.5-2.4.7.2.jar",
+              "url": "/mods/226138/3393182/SimpleOres2-1.16.5-2.4.7.2.jar"
+            },
+            "available": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 297039,
+              "name": "Silent Gear",
+              "gameEntityId": 297039,
+              "dependencyType": "required"
+            },
+            {
+              "gameType": "mod",
+              "id": 326258,
+              "name": "Silent's Mechanisms",
+              "gameEntityId": 326258,
+              "dependencyType": "required"
+            },
+            {
+              "gameType": "mod",
+              "id": 226136,
+              "name": "SimpleCore API",
+              "gameEntityId": 226136,
+              "dependencyType": "required"
+            }
+          ],
+          "available": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": -70461627088600,
+          "name": "AutoRegLib-1.6-49",
+          "favorite": false,
+          "version": {
+            "id": -70461627847800,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "921cf73b9d31bce5d332115a5144c3fca2010f93",
+              "size": 57279,
+              "path": "mods/AutoRegLib-1.6-49.jar",
+              "url": "mods/AutoRegLib-1.6-49.jar"
+            },
+            "available": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": -70461627861900,
+          "name": "BiomesOPlenty-1.16.5-13.1.0.487-universal",
+          "favorite": false,
+          "version": {
+            "id": -70461644819600,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "2983b84b3b815d97fefff7c010e9658ed25116e2",
+              "size": 3651046,
+              "path": "mods/BiomesOPlenty-1.16.5-13.1.0.487-universal.jar",
+              "url": "mods/BiomesOPlenty-1.16.5-13.1.0.487-universal.jar"
+            },
+            "available": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": -70461709339500,
+          "name": "DungeonCrawl-1.16.5-2.3.9",
+          "favorite": false,
+          "version": {
+            "id": -70461714028000,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "367deadacb70b6aab1884740d8fd896e5f969948",
+              "size": 770534,
+              "path": "mods/DungeonCrawl-1.16.5-2.3.9.jar",
+              "url": "mods/DungeonCrawl-1.16.5-2.3.9.jar"
+            },
+            "available": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": -70461716060100,
+          "name": "mgui-1.16.5-3.3.0",
+          "favorite": false,
+          "version": {
+            "id": -70461716485600,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "75c2627cbfc1806d71f4e333b9a1293abf3b90b1",
+              "size": 50151,
+              "path": "mods/mgui-1.16.5-3.3.0.jar",
+              "url": "mods/mgui-1.16.5-3.3.0.jar"
+            },
+            "available": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": -70461716494800,
+          "name": "Quark-r2.4-322",
+          "favorite": false,
+          "version": {
+            "id": -70461754120200,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "c314a534737baba9416c4947e15f81c6243f9844",
+              "size": 8796901,
+              "path": "mods/Quark-r2.4-322.jar",
+              "url": "mods/Quark-r2.4-322.jar"
+            },
+            "available": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": -70461754156900,
+          "name": "tetra-1.16.5-3.20.0",
+          "favorite": false,
+          "version": {
+            "id": -70461767356500,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "72eb07b84285812bf80a3ac50e6944710854f0dc",
+              "size": 3005877,
+              "path": "mods/tetra-1.16.5-3.20.0.jar",
+              "url": "mods/tetra-1.16.5-3.20.0.jar"
+            },
+            "available": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": -70461767380900,
+          "name": "twilightforest-1.16.5-4.0.870-universal",
+          "favorite": false,
+          "version": {
+            "id": -70461905706700,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "25dea11b15da9f1417b9d7a6dde6b46b136a9a41",
+              "size": 31748538,
+              "path": "mods/twilightforest-1.16.5-4.0.870-universal.jar",
+              "url": "mods/twilightforest-1.16.5-4.0.870-universal.jar"
+            },
+            "available": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 486392,
+          "name": "Flywheel",
+          "favorite": false,
+          "version": {
+            "id": 3419392,
+            "name": "flywheel-1.16-0.2.3",
+            "metadata": {
+              "sha1": "46db7287a60e40a942eee744064dec917e847ca0",
+              "size": 466311,
+              "path": "mods/flywheel-1.16-0.2.3.jar",
+              "url": "/mods/486392/3419392/flywheel-1.16-0.2.3.jar"
+            },
+            "available": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": -72021970921300,
+          "name": "create-mc1.16.5_v0.3.2g",
+          "favorite": false,
+          "version": {
+            "id": -72022164060500,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "5b32b0310d037deed14200e3b748bd02d46d9471",
+              "size": 11564279,
+              "path": "mods/create-mc1.16.5_v0.3.2g.jar",
+              "url": "mods/create-mc1.16.5_v0.3.2g.jar"
+            },
+            "available": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": -79603601811700,
+          "name": "backpacked-2.1.8-1.16.5",
+          "favorite": false,
+          "version": {
+            "id": -79603606273100,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "040bc7952e1af3c93fcb974892ff4fc9ff77f67c",
+              "size": 379876,
+              "path": "mods/backpacked-2.1.8-1.16.5.jar",
+              "url": "mods/backpacked-2.1.8-1.16.5.jar"
+            },
+            "available": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false
+        }
+      ],
+      "resourcePacks": [
+        {
+          "stateGameElement": "active",
+          "id": -72545233294700,
+          "name": "Quark Programmer Art",
+          "favorite": false,
+          "version": {
+            "id": -72545293870800,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "c1ea21228f2aac1ffc4f38dac8604d13b4b0681d",
+              "size": 266417,
+              "path": "resourcepacks/Quark Programmer Art.zip",
+              "url": "resourcepacks/Quark Programmer Art.zip"
+            },
+            "available": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false
+        }
+      ],
+      "maps": [],
+      "shaderpacks": [],
+      "gameVersionDTO": {
+        "id": 31,
+        "name": "1.16.5"
+      },
+      "forgeVersionDTO": {
+        "id": 3127,
+        "name": "36.2.34"
+      },
+      "id": -70057185287801,
+      "name": "1.0",
+      "available": false
+    },
+    "userInstall": false,
+    "populateStatus": false,
+    "available": false
+  },
+  "source": "local_version_repo",
+  "jar": "1.16.5",
+  "skinVersion": true
+}
